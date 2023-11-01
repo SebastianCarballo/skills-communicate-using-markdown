@@ -14,3 +14,9 @@ Repositorio Git vacío inicializado en /Users/skills/Projects/recipe-repository/
 ```javascript
 var myVar = "¡Hola mundo!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+# Activity: Add a task list
